@@ -1,0 +1,39 @@
+{
+"expansions":[
+   {
+   "expanded_terms":[
+      "IA", "aprendizado de máquina", "aprendizagem de máquina", "ML"
+   ]
+   },
+   {
+   "expanded_terms":[
+      "ML","machine learning", "aprendizado de máquina", "aprendizagem de máquina"
+   ]
+   },
+   {
+   "expanded_terms":[
+      "DL", "deep learning", "aprendizado profundo", "aprendizagem profunda"
+   ]
+   },
+   {
+   "expanded_terms":[
+      "cloud computing", "computação na nuvem", "CC"
+   ]
+   },
+   {
+   "expanded_terms":[
+      "iot", "internet das coisas", "IoT"
+   ]
+   },
+   {
+   "expanded_terms":[
+      "LSST", "Legacy Survey of Space and Time"
+   ]
+   },
+   {
+   "expanded_terms":[
+      "UCSC", "Universidade da Califórnia Santa Cruz"
+   ]
+   }
+]
+}
