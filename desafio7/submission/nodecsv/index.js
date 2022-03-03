@@ -1,0 +1,1 @@
+// json2csv -i data.json -f Tempo,Estação,LAT,LONG,Movimentação,Original_473,Original_269,Zero,Maçã-Verde,Tangerina,Citrus,Açaí-Guaraná,Pêssego,TARGET,row -p -o convertido.csv
