@@ -2,7 +2,7 @@
 "expansions":[
    {
    "expanded_terms":[
-      "IA", "aprendizado de máquina", "aprendizagem de máquina", "ML"
+      "IA", "aprendizado de máquina", "aprendizagem de máquina"
    ]
    },
    {
@@ -27,13 +27,33 @@
    },
    {
    "expanded_terms":[
-      "LSST", "Legacy Survey of Space and Time"
+      "indústria", "industrial"
    ]
    },
    {
    "expanded_terms":[
-      "UCSC", "Universidade da Califórnia Santa Cruz"
+      "carro", "autônomo", "veículo", "automóvel"
    ]
-   }
+   },
+   {
+   "expanded_terms":[
+      "música", "trilha", "som", "composição"
+   ]
+   },
+   {
+   "expanded_terms":[
+      "video", "vídeo", "clipe", "filme", "apresentação"
+   ]
+   },
+   {
+   "expanded_terms":[
+      "artigo", "texto", "relato", "article"
+   ]
+   },
+   {
+      "expanded_terms":[
+         "medicina", "doença", "câncer", "médico"
+   ]
+   } 
 ]
 }

@@ -24,15 +24,15 @@ A indústria precisa se preocupar com a inteligência artificial?
 Uma IA pode aprender a jogar videogame?
 
 <!-- Como as pessoas e a inteligência artificial podem trabalhar juntas para criar melhores negócios -->
-Democratização do processo da descoberta arqueológica
+<!-- Democratização do processo da descoberta arqueológica
 Qualquer um pode praticar arqueologia?
 Artigo com relatos sobre arqueologia
 Vídeo sobre arqueologia
 Vídeo sobre ruínas antigas
 Vídeo de mistérios arqueológicos
 Pirâmides do Egito
-Como ser um arqueólogo?
-Descobertas arqueológicas
+Como ser um arqueólogo? -->
+<!-- Descobertas arqueológicas -->
 
 Inteligência artifical nos negócios
 Empresas ganham dinheiro com IA?
@@ -76,6 +76,7 @@ Artigo que fala sobre IBM Watson
 Como são desenvolvidas as redes neurais em machine learning?
 Experimento de psicólogos para testar Machine Learning
 
+
 <!-- Nova teoria diz que passado, presente e futuro coexistem -->
 O que é o conceito Bloco Universal ?
 Qual a relação do passado, presente e futuro?
@@ -91,6 +92,10 @@ Artigo sobre solução tecnológica da IBM para diagnosticar câncer de mama
 A IA pode diagnosticar câncer?
 Inteligência artificial no diagnóstico de câncer de mama
 Diagnosticar doenças utilizando inteligência artifical
+
+
+
+
 
 <!-- Inteligência artificial ajuda a Nasa a projetar novos trajes espaciais -->
 Nasa utiliza inteligência artificial
@@ -129,8 +134,6 @@ Grandes projetos de tecnologia
 Projetos tecnológicos
 Devo estudar física?
 Curiosidades sobre tecnologia
-
-
 
 
 Como funciona o
