@@ -1,0 +1,27 @@
+{
+  "name": "behind-the-code-ibm-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wguilherme/behind-the-code-ibm-2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wguilherme/behind-the-code-ibm-2020/issues"
+  },
+  "homepage": "https://github.com/wguilherme/behind-the-code-ibm-2020#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^4.1.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "ibm-watson": "^5.7.0",
+    "multer": "^1.4.2"
+  }
+}

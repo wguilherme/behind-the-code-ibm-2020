@@ -1,0 +1,2 @@
+- Pegar nome do carro
+- N sugerir o msm carro do input
